@@ -1,1 +1,1 @@
-Stanbic AR test application
+Stanbic AR test applicationgit 
